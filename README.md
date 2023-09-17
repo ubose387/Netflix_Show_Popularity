@@ -1,4 +1,4 @@
-#Netflix Show Popularity Analysis
+# Netflix Show Popularity Analysis
 
 Description:
 This data analysis project focuses on assessing the popularity of shows on Netflix by considering user ratings, show categories, and the release year. The dataset encompasses various factors, including show ratings and their correlation with user ratings, as well as user rating sizes, which indicate the user base's scale. This project not only conducts exploratory data analysis but also leverages interactive visualizations, integrating drop-down menus, labels, hover pop-ups, and more.
